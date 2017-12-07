@@ -1,4 +1,4 @@
-'''                                                           # 1 task
+                                                          # 1 task
 
 H='1234 9u ytreee' 
 
@@ -57,4 +57,3 @@ elif a==b or a==c or b==c:
  print("two same") 
 else :
   print('no same')
-'''
