@@ -57,3 +57,20 @@ elif a==b or a==c or b==c:
  print("two same") 
 else :
   print('no same')
+
+  
+  
+  
+  
+  
+  #      homework 2
+  
+  #1
+  
+  a=input('enter string')
+print(a[3], a[-2], a[:5], sep='\n')
+  
+  
+  
+  
+  
