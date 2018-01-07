@@ -72,11 +72,10 @@ print(a[3], a[-2], a[:5], sep='\n')
   
   
  # task 8 
- def songa(word,count,sign):
+ def songa(word='la',count=3,sign=1 or 0):
   if sign==1:
     print((word*count)+'.')
   else:
     print((word*count)+'!')
-songa(input('paste text')+' ',int(input('number of text')),int(input('last sign num'))) 
-  
+songa(input('paste text')+' ',int(input('number of text')),int(input('last sign num')))  
   
