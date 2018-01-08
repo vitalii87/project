@@ -12,7 +12,8 @@ print(a2.capitalize())                        #1.5
 
                                                                #task 2
 
-summa=print(int(179*2+971*2)/2)               #2.1
+import math
+print(math.sqrt(((971*971)+(179*179)))            #2.1
 
 n = int(input())
 print(n // 10 % 10)                           #2.2
