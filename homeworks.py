@@ -13,7 +13,7 @@ print(a2.capitalize())                        #1.5
                                                                #task 2
 
 import math
-print(math.sqrt(((971*971)+(179*179)))            #2.1
+print(math.sqrt(((971*971)+(179*179))))            #2.1
 
 n = int(input())
 print(n // 10 % 10)                           #2.2
